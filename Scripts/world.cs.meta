@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2c918639361197147840f1d52487c673
+timeCreated: 1476399883
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grassTile1: {fileID: 1000013090552716, guid: 09687174ce630ab4382aed39862db6a4,
+      type: 2}
+  - grassTile2: {fileID: 1000012777260772, guid: 9a3e73326e8cbb34799e6d0c98c08a40,
+      type: 2}
+  - tree: {fileID: 1000010743961852, guid: a570b2ad32b37c845a0f43da2b596320, type: 2}
+  - pTree: {fileID: 1000011659715290, guid: dad78ba86c61eee48a43dca01c3141b6, type: 2}
+  - dirtTile: {fileID: 1000010983466368, guid: f40eeb7696ddeab46a0989997db1501c, type: 2}
+  - fieldTile: {fileID: 1000011936204672, guid: 2bca0c3796192994a8f34f69c26bc51c,
+      type: 2}
+  - rockTile: {fileID: 1000012659404700, guid: 96627c21574b91046aa583bbcde34765, type: 2}
+  - bushTile: {fileID: 50000010656691890, guid: f9a6a13ec63cf9f4b97218698bfaee7b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
